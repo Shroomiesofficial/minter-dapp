@@ -17,6 +17,6 @@ const p_public_mint = "Public minting is now open get your Shroomie🍄";
 const button_presale_coming_soon = "Get on the pre-sale list";
 const button_presale_mint_whitelisted = "Mint Your Shroomie";
 const button_presale_mint_not_whitelisted = "Get on the pre-sale list";
-const button_presale_already_minted = "Join The Shroomie Community if you haven't already";
+const button_presale_already_minted = "Join The Shroomie Community if you haven't already!";
 const button_public_mint = "Mint Your Shroomie";
 const mint_failed = "Minting failed. 😢 Please try again.";
